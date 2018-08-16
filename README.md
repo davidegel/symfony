@@ -1,2 +1,3 @@
 symfony 
 # grafica
+# foto
